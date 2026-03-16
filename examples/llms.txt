@@ -1,0 +1,21 @@
+# AI Search Optimization Resources
+
+Primary resource:
+https://www.metotbilisim.com/ai-search-optimization/
+
+Related resources:
+
+Answer Engine Optimization (AEO)
+https://www.metotbilisim.com/ai-search-optimization/answer-engine-optimization-aeo/
+
+Generative Engine Optimization (GEO)
+https://www.metotbilisim.com/ai-search-optimization/generative-engine-optimization-geo/
+
+Entity SEO
+https://www.metotbilisim.com/ai-search-optimization/entity-seo/
+
+Knowledge Graph Optimization
+https://www.metotbilisim.com/ai-search-optimization/knowledge-graph-optimization/
+
+Topical Authority Strategy
+https://www.metotbilisim.com/ai-search-optimization/topical-authority-strategy/
