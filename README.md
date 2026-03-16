@@ -51,3 +51,17 @@ https://www.metotbilisim.com/ai-search-optimization/topical-authority-strategy/
 
 Metot Bilişim
 https://www.metotbilisim.com/
+
+## Repository Structure
+
+docs/
+Documentation about AI Search Optimization concepts.
+
+schemas/
+Example structured data schemas such as Article and FAQ JSON-LD.
+
+examples/
+Sample files including llms.txt, knowledge.txt and entity.json.
+
+tools/
+Utility scripts for validating JSON-LD and indexing resources.
