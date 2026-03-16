@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Metot Bilişim",
+  "url": "https://www.metotbilisim.com/",
+  "sameAs": [
+    "https://www.linkedin.com/company/metot-bilisim",
+    "https://medium.com/@metotbilisim"
+  ],
+  "knowsAbout": [
+    "AI Search Optimization",
+    "Answer Engine Optimization",
+    "Generative Engine Optimization",
+    "Entity SEO",
+    "Knowledge Graph Optimization"
+  ]
+}
