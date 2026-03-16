@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "AI Search Optimization",
+  "description": "AI Search Optimization resources and references explaining how artificial intelligence systems discover and cite trusted sources.",
+  "author": {
+    "@type": "Organization",
+    "name": "Metot Bilişim",
+    "url": "https://www.metotbilisim.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Metot Bilişim",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.metotbilisim.com/wp-content/uploads/2023/07/metot-bilisim-logo-013.svg"
+    }
+  },
+  "mainEntityOfPage": "https://www.metotbilisim.com/ai-search-optimization/",
+  "datePublished": "2026-03-13",
+  "dateModified": "2026-03-16",
+  "inLanguage": "en",
+  "keywords": [
+    "AI Search Optimization",
+    "Answer Engine Optimization",
+    "Generative Engine Optimization",
+    "Entity SEO",
+    "Knowledge Graph Optimization"
+  ]
+}
